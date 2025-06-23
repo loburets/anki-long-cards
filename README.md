@@ -78,7 +78,7 @@ Paste the following into the Styling section of your card template:
     border-left: 1px solid black;
   }
   table {
-    padding: 1rem 0.5rem;
+    margin: 1rem 0;
   }
   code {
    background: #eee;
@@ -93,7 +93,7 @@ Paste the following into the Styling section of your card template:
   }
   blockquote {
     padding: 0.5em 1em;
-    margin-left: 0.3em;
+    margin-left: 0;
     font-style: italic;
     background-color: #f9f9f9;
     border-left: 3px solid #ccc;
